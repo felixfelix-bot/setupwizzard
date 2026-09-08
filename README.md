@@ -93,14 +93,6 @@ The tollgate-wrt `.ipk`/`.apk` ships the captive portal
 nftables enforcement rules — the wizard only installs the package and points
 nodogsplash/uhttpd at it.
 
-## Verify binaries
-
-```sh
-sha256sum -c SHA256SUMS
-```
-
-Checksums are published with each [release](https://github.com/OpenTollGate/setupwizzard/releases).
-
 ## Build from source
 
 ```sh
