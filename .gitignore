@@ -1,0 +1,6 @@
+dist/
+*.exe
+setupwizzard-*
+setupwizzard
+coverage*.out
+DLEQ-FIX-PLAN.md
